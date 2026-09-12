@@ -62,6 +62,11 @@ xi. Table: inventories
 ● quantity: int(11), NOT NULL.  */
 
 
+
+CREATE DATABASE Practical1;
+
+USE Practical1;
+
 -- =========================================================
 -- 1. REGIONS
 -- =========================================================
