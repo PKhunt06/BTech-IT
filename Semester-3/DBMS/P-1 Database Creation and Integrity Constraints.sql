@@ -1,5 +1,5 @@
-/* P-1 Creation of Database Objects and Integrity Constraints (DDL). Create database which
-consist of following table and insertappropriate data into it.
+/* P-1 Creation of Database Objects and Integrity Constraints (DDL). 
+Create database which consist of following table and insertappropriate data into it.
 i. Table: regions
 ● region_id: int(11), Primary Key, NOT NULL, AUTO_INCREMENT.
 ● regionname: varchar(50), DEFAULT NULL.
