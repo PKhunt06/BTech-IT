@@ -1,4 +1,4 @@
-/* 9 Transactions and Data Security
+/* P-9 Transactions and Data Security
 i. Perform a series of DML updates and use COMMIT to make them permanent.
 ii. Demonstrate the ROLLBACK command by reverting an accidental data deletion.
 iii. Create a database View that only shows product names and prices to restrict sensitive cost data.
